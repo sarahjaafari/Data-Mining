@@ -1,2 +1,2 @@
 # Data-Mining
-This course covers fundamental techniques for discovering patterns in data, including preprocessing, feature selection, classification, clustering, and model evaluation in Python.
+This course covers fundamental techniques for discovering patterns in data, including preprocessing, feature selection, classification, clustering, and model evaluation. Using Python, we explore supervised and unsupervised learning methods, applying algorithms like decision trees, support vector machines, k-means clustering, and neural networks to real-world datasets. The course emphasizes both theoretical understanding and practical implementation. 
